@@ -17,3 +17,5 @@ TypeError: setupUi() missing 1 required positional argument: 'MainWindow'
 ******************************************************************************************************
 
 hatası alıyorum.
+
+masaustu.py dosyası, designer ile oluşturduğum .ui dosyasının .py dosyasına dönüştürülmüş hali. main.py'da ise oluşturduğum pencereyi açmaya çalıştım.
