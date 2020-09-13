@@ -1,6 +1,7 @@
 # keremkerem
 
-main.py dosyasını çalıştırdığımda: 
+main.py dosyasını çalıştırdığımda:
+(When I run the main.py file:)
 *****************************************************************************************************
 Traceback (most recent call last):
 
@@ -17,5 +18,6 @@ TypeError: setupUi() missing 1 required positional argument: 'MainWindow'
 ******************************************************************************************************
 
 hatası alıyorum.
+(I am getting this error.)
 
 masaustu.py dosyası, designer ile oluşturduğum .ui dosyasının .py dosyasına dönüştürülmüş hali. main.py'da ise oluşturduğum pencereyi açmaya çalıştım.
